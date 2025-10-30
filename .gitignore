@@ -1,0 +1,29 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.csv
+*.evtx
+
+# IDE & system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Secrets or configs
+*.env
+*.key
+*.pem

@@ -1,5 +1,3 @@
-# log_hunter.py - Enterprise SOC Log & Threat Hunter
-# With VirusTotal integration and YARA scanning
 import os, sys, json, csv, hashlib, argparse, time
 from datetime import datetime, timedelta
 from pathlib import Path
